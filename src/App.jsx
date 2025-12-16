@@ -1,9 +1,9 @@
-import Cook from './components/Cook.jsx'
+import Profile from './components/Profile.jsx'
 
 export default function App() {
-  return (
-    <>
-      <Cook />
-    </>
-  )
+	return (
+			<>
+				<Profile />
+		</>
+	);
 }
